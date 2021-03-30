@@ -1,4 +1,7 @@
 {
+  "name": "ryguy2407/nwostarter",
+  "description": "A Craft CMS starter that includes tailwind css and laravel mix",
+  "type": "project",
   "require": {
     "craftcms/cms": "^3.6.4",
     "vlucas/phpdotenv": "^3.4.0"
