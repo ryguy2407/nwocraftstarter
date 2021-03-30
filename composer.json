@@ -4,6 +4,7 @@
   "type": "project",
   "require": {
     "craftcms/cms": "^3.6.4",
+    "nystudio107/craft-imageoptimize": "^1.6",
     "vlucas/phpdotenv": "^3.4.0"
   },
   "require-dev": {
