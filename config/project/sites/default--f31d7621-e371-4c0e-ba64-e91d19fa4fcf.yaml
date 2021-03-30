@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: 'NWO Starter'
+primary: true
+siteGroup: dd515d4e-0208-4937-a527-6d49106e0848 # NWO Starter
+sortOrder: 1
